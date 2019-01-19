@@ -1,9 +1,11 @@
 body {
 	text-align: center;
-	font-size: 2em;
+	font-size: 1em;
+	font-family: 'Archivo Black', sans-serif;
+
 }
 
 p {
-	text-align: right;
+	text-align: center;
 	font-size: 1em;
-}
+	font-family: 'Archivo Black', sans-serif;
