@@ -1,11 +1,50 @@
 body {
 	text-align: center;
 	font-size: 1em;
-	font-family: 'Archivo Black', sans-serif;
+	font-family: 'Rajdhani', sans-serif;
+	color: #098e69;
+	background-color: #9beeb6;
+	background-image:url("https://cdn.pixabay.com/photo/2017/10/24/10/09/food-2883991_960_720.png");
+	background-position:center;
+	background-size:25% 25%;
 
 }
 
 p {
 	text-align: center;
 	font-size: 1em;
-	font-family: 'Archivo Black', sans-serif;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+div p {
+	/*target every <p> that is a decendant of a <div>*/
+	font-style: italic;
+}
+
+
+#about {
+	color:#dca5ff;
+	text-transform: uppercase;
+}
+#my {
+	color:#dca5ff;
+	text-transform: uppercase;
+}
+#exper {
+	color:#dca5ff;
+	text-transform: uppercase;
+}
+#favorite {
+	color:#dca5ff;
+	text-transform: uppercase;
+}
+#Social {
+	color:#dca5ff;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
