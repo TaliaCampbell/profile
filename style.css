@@ -10,6 +10,19 @@ body {
 
 }
 
+nav ul li{
+	display: inline;
+	padding: 20px;
+	padding-top: 50px;
+ 	padding-right: 30px;
+  	padding-bottom: 10px;
+  	padding-left: 20px;
+	border:1px solid pink; 
+	background-color: pink;
+
+
+}
+
 p {
 	text-align: center;
 	font-size: 1em;
